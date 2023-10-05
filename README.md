@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Garg</h1>
 <h3 align="center">A passionate learner from India</h3>
 
-- 🌱 I’m currently learning **DSA and web development**
+- 🌱 I’m currently learning **DSA and machine learning**
 
 - 📫 How to reach me **sahilgarg3112@gmail.com**
 
